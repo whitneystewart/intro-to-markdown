@@ -8,5 +8,5 @@ Now I am going to add an image: ![Image of Yaktocat](https://octodex.github.com/
 Now I will attempt a task list: 
 
 - [x] Complete GitHub 101 training
-- [ ] Complete welcome board assignments 
+- [x] Complete welcome board assignments 
 - [ ] Review Hubber TV
